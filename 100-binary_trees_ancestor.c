@@ -4,7 +4,7 @@
  * binary_trees_ancestor - finds the lowest common ancestor of two nodes.
  * @first: Pointer to the first node.
  * @second: Pointer to the second node.
- * by: laila
+ * by: laila and mega
  *
  * Return: If no common ancestors return NULL, else return common ancestor.
  */
